@@ -1,0 +1,43 @@
+header{
+    height: 50px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.brasil{
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding-left: 400px;
+}
+.italia{
+    height: 200px;
+    width: 200px;
+    float: right;
+    padding-right: 400px;
+}
+.fivb{
+    height: 200px;
+    text-align: center;
+}
+.fivb img{
+    height: 100px;
+    width: auto;
+}
+#container{
+ padding-top: 50px;
+    height: 200px;
+}
+h4 {
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
